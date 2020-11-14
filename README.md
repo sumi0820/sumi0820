@@ -1,7 +1,7 @@
 <h2>Hi there!</h2>
 
 <p>
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=SumiyaUshiro.sumi0820)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SumiyaUshiro.sumi0820)
 </p>  
 
 <p></p>
