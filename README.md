@@ -2,9 +2,6 @@
 
 <div align="center">
 
-![Profile Visits](https://visitor-badge.glitch.me/badge?page_id=Sumiya.sumi0820)
-
-
 
 <p>Feel free to contact me</p><br>
 
